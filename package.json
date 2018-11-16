@@ -1,0 +1,20 @@
+{
+  "name": "embark-vue-template",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "embark test"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "vue-loader": "^15.4.2",
+    "vue-resource": "^1.5.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
